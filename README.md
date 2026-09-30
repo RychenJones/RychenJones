@@ -15,19 +15,23 @@ Tech: JavaScript · Vite · PocketBase · Google Cloud · Netlify
 
 ## DateDeck
 *Team project · BYU-Idaho*
+
 Full-stack web application designed to help users discover and plan date ideas around Rexburg, Idaho. Users can browse and filter ideas by factors such as location and price.
 
 Tech: JavaScript · React · Vite · PocketBase · AWS · Netlify
 
 ## TrailView - Hike Planner
 *Class project · BYU-Idaho*
+
 Responsive hiking planner that lets users explore trails, view trail information, save favorites, and create personalized hiking plans. Built with a modular JavaScript architecture and browser-based storage.
 
 Tech: HTML · CSS · JavaScript · Vite · localStorage
 
 ## Expense Tracker
 *Class project · BYU-Idaho*
+
 Java command-line application for logging expenses and viewing analytical information. Built as an open-ended class project to get introduced to Java. Includes 11 supporting classes, password hashing, and file-based data persistence.
+
 Tech: Java
 
 # GitHub Statistics
