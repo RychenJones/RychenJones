@@ -25,11 +25,10 @@ Responsive hiking planner that lets users explore trails, view trail information
 
 Tech: HTML · CSS · JavaScript · Vite · localStorage
 
-## Date Difference Calculator
-*Class project*
-Python application that calculates the difference between two dates, including handling different month lengths and leap years.
-
-Tech: Python
+## Expense Tracker
+*Class project · BYU-Idaho*
+Java command-line application for logging expenses and viewing analytical information. Built as an open-ended class project to get introduced to Java. Includes 11 supporting classes, password hashing, and file-based data persistence.
+Tech: Java
 
 # GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RychenJones&show_icons=true&hide_border=true)
