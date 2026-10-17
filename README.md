@@ -3,8 +3,11 @@ Software Engineering student at BYU-Idaho with an emphasis in Software Design an
 
 # Skills & Technologies
 Languages: JavaScript, Java, C#, Python
+
 Frontend: HTML, CSS, Vite
+
 Backend & Databases: PocketBase, REST APIs
+
 Cloud & Tools: AWS, Google Cloud, Git, GitHub
 
 # Projects
