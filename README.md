@@ -16,7 +16,7 @@ Full-stack workout tracking application built to make logging and reviewing stre
 
 Tech: JavaScript · Vite · PocketBase · Google Cloud · Netlify
 
-## DateDeck
+## DateDeck | In progress
 *Team project · BYU-Idaho*
 
 Full-stack web application designed to help users discover and plan date ideas around Rexburg, Idaho. Users can browse and filter ideas by factors such as location and price.
