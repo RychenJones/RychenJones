@@ -2,11 +2,11 @@
 Software Engineering student at BYU-Idaho with an emphasis in Software Design and a minor in Cloud Computing. I enjoy building practical applications and working across the full development process.
 
 # Skills & Technologies
-Languages: JavaScript, Java, C#, Python
+Languages: C#, Java, Python, JavaScript
 
 Frontend: HTML, CSS, Vite
 
-Backend & Databases: PocketBase, REST APIs
+Backend & Databases: SQL, PocketBase, REST APIs
 
 Cloud & Tools: AWS, Google Cloud, Git, GitHub
 
