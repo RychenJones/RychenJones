@@ -23,6 +23,11 @@ Full-stack web application designed to help users discover and plan date ideas a
 
 Tech: JavaScript · React · Vite · PocketBase · AWS · Netlify
 
+## PolicyLab - Policy Simulator
+Team hackathon project to simulate the effects of proposed legislation regarding transportation policy. The frontend takes user input and shows chart data representing a policy's predicted effect over time and on different income cohorts. The backend consists of an extensive algorithm, considering over 50 modeled factors, and is accessed through API calls using ASP.NET Core to populate the frontend data.
+
+Tech: HTML · CSS · JavaScript · C# · ASP.NET Core
+
 ## TrailView - Hike Planner
 *Class project · BYU-Idaho*
 
